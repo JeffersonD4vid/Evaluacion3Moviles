@@ -41,7 +41,7 @@ export const Screem4 = () => {
   return (
   <View style={stylesGlobal.container}>
       <View>
-          <Text style={stylesGlobal.title}> >= </Text>
+          <Text style={stylesGlobal.title}>Mayor o igual que  </Text>
       </View>
       <View style={styles.contentForm}>
           <Text style={stylesGlobal.titleForm}> Ingrese un numero </Text>

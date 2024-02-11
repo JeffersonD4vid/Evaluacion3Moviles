@@ -41,7 +41,7 @@ export const Screem5 = () => {
   return (
     <View style={stylesGlobal.container}>
     <View>
-        <Text style={stylesGlobal.title}>  </Text>
+        <Text style={stylesGlobal.title}> Menor o igual que </Text>
     </View>
     <View style={styles.contentForm}>
         <Text style={stylesGlobal.titleForm}> Ingrese un numero </Text>

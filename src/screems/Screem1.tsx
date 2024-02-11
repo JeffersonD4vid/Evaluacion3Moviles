@@ -8,8 +8,6 @@ import { stylesGlobal } from '../theme/appThemes'
 interface Props extends StackScreenProps<RootStackParamList,'Screem1'>{};
 
 
-
-
 export const Screem1 = ({navigation}:any) => {
   return (
     <View style={stylesGlobal.container}>

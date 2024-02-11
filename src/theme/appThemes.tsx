@@ -10,7 +10,7 @@ export const stylesGlobal=StyleSheet.create({
     },
 
     title:{
-        fontSize:55,
+        fontSize:40,
         fontWeight:'bold',
         bottom:50,
         color:'#fff',
@@ -18,9 +18,10 @@ export const stylesGlobal=StyleSheet.create({
     },
 
     titleForm:{
-        fontSize:30,
+        fontSize:20,
         fontWeight:'bold',
-        color:'#61DAFB'
+        color:'#61DAFB',
+        
     }
 
 })
